@@ -1,14 +1,16 @@
 # Awesome MJML [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> If you're looking for a way to manage & localize your email templates, check out [Recontent.app](https://recontent.app)
+
 ## General resources
 
 - [MJML official website](https://mjml.io/)
 
 ## Tutorials
 
-- [Creating responsive emails with MJML by Smashing Magazine](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
-- [MJML, MDX & custom components by Josh Comeau](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
-- [French - Le MJML by Grafikart](https://grafikart.fr/tutoriels/mjml-mailing-876)
+- [🇺🇸 Creating responsive emails with MJML by Smashing Magazine](https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/)
+- [🇺🇸 MJML, MDX & custom components by Josh Comeau](https://www.joshwcomeau.com/react/wonderful-emails-with-mjml-and-mdx/)
+- [🇫🇷 Le MJML by Grafikart](https://grafikart.fr/tutoriels/mjml-mailing-876)
 
 ## Tools
 
@@ -26,8 +28,9 @@
 # Email templates collections
 
 - [MJML official templates](https://github.com/mjmlio/email-templates)
+- [Recontent.app templates](https://github.com/recontentapp/mjml-templates)
 
 ## Email inspirations
 
 - [ReallyGoodEmails.com](https://reallygoodemails.com/)
-- [EmailLove](https://emaillove.com/)
+- [EmailLove.com](https://emaillove.com/)
